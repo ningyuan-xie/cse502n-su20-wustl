@@ -1,0 +1,4 @@
+M = 16
+CORPUS: 0 bases
+PATTERN: 0 bases
+MASK: 0 bases

@@ -1,0 +1,43 @@
+# MacOS
+*.DS_Store
+
+# Windows
+*.db
+*.ini
+$RECYCLE.BIN/
+
+# Course Materials
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.csv
+*.ppt
+*.pptx
+*.pdf
+*.mp4
+
+# Keep Syllabus
+!/*Syllabus*.pdf
+
+# Software files
+.ipynb_checkpoints/
+.idea/
+.metadata/
+
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.DS_Store
+*.aux
+*.log
+*.synctex.gz
+*.dvi
+*.ps
+*.class
+bin/
+*~
+/bin/
+outputs/
+
+
+
+

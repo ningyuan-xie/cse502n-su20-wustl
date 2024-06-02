@@ -1,0 +1,3 @@
+M = 18
+CORPUS: 0 bases
+PATTERN: 0 bases
